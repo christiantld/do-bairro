@@ -28,7 +28,7 @@ Abaixo você encontra o Read me de cada parte da aplicação, com mais detalhes 
 
 ## ✍️ Autor
 
-- [@christiantld](https://github.com/christiantld)
+- [@christiantld](https://christiantld.netlify.app/)
 
 ## 🎉 Considerações finais
 
