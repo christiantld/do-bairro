@@ -1,6 +1,7 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=300px height=200px src="https://user-images.githubusercontent.com/37941820/84198575-20213280-aa7a-11ea-98b1-ffbfac83a641.png"></a>
+     <img style="display:inline" width=400px height=200px src="https://user-images.githubusercontent.com/37941820/84203174-5c0ac680-aa7f-11ea-9a04-863a04b3d258.png"></a>
+ <img style="display:inline" width=300px height=200px src="https://user-images.githubusercontent.com/37941820/84198575-20213280-aa7a-11ea-98b1-ffbfac83a641.png"></a>
 </p>
 
 <h3 align="center">Do Bairro</h3>
