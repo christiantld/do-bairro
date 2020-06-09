@@ -1,0 +1,9 @@
+[submodule "nlw-backend"]
+	path = nlw-backend
+	url = https://github.com/christiantld/nlw-backend
+[submodule "nlw-mobile"]
+	path = nlw-mobile
+	url = https://github.com/christiantld/nlw-mobile
+[submodule "nlw-frontend"]
+	path = nlw-frontend
+	url = https://github.com/christiantld/nlw-frontend
